@@ -1,0 +1,8 @@
+{
+  "protocol": "android-crypto-lab-key",
+  "version": 1,
+  "key_version": 1,
+  "algorithm": "AES-256-GCM",
+  "iv": "Kq2dUz5EPynGRjJ+",
+  "wrapped_key": "Spl4Ns5OtFHzrkVooEwIKouwIarNhjp0gGUvTGz0QZ6zCyLTZjM6M1N33bqMBUPW"
+}
